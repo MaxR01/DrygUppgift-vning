@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 1be843d02a2868e439fd49864c745801
+  productGUID: dffc954ad23ba5043ad8420f6431b738
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "PillaLinusI\xD6rat"
+  productName: Pilla_Linus
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -617,8 +617,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: a7f414fd-d89a-4272-89d7-6748aab3f2c1
-  projectName: "PillaLinusI\xD6rat"
+  cloudProjectId: 3c8a891d-1aa4-43d8-b8d4-2de4b081df4d
+  projectName: Pilla_Linus
   organizationId: maskensorg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
